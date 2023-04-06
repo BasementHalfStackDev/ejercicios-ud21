@@ -67,7 +67,7 @@ public class Geometria {
 		
 		switch (fiCode) 
 		{
-		case 1: Figura= "cuadrado";
+		case 1: Figura= "Cuadrado";
 			break;
 		case 2: Figura= "Circulo";
 			break;
